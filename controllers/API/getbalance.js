@@ -1,5 +1,5 @@
 const Web3 = require('web3');
-const web3 = new Web3('https://sepolia.infura.io/v3/a1313730053c48a58974e3f68568c174');
+const web3 = new Web3('https://sepolia.infura.io/v3/');
 
 const testToken = require('../../ABI/TestToken.js'); 
 
